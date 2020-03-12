@@ -45,6 +45,7 @@ social_icons:
     link: https://www.twitter.com/christianezeani
     icon: fab fa-twitter
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://mocomocom.github.io/"
+url: https://mocomocom.github.io/
+remote_theme: christianezeani/panthera-jekyll
 
     
